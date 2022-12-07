@@ -1,0 +1,29 @@
+hero:
+  name: 安妮
+  word: 火焰是我最喜欢的玩具
+  hp: 445.5
+heros_name:
+  - 安妮
+  - 易
+  - 阿木木
+heros:
+  - name: 易
+    word: 好好看好好学
+    hp: 450
+hero_name_list:
+  - - 安妮
+    - 易
+    - 阿木木
+hero_name_word:
+  - - 阿木木
+    - 我还以为你从来不和我玩呢
+  - - 易
+    - 真正的大师永远怀着一颗学徒的心
+mobile_belong: {shouji: 13456755448, appkey: 0c818521d38759e1}
+mobile_belong_post:
+  # shouji和appkey
+  - - 13456755448
+    - 0c818521d38759e1
+mobile_belong_get:
+  - [13456755448, 0c818521d38759e1]
+  - [13000000000, 0c818521d38759e1]
